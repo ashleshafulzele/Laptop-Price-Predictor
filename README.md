@@ -41,30 +41,26 @@ Laptop-Price-Predictor/
 
 ##  Installation & Setup
 
-### 1️ Clone the repository
+###  Clone the repository
 
 ```
 git clone https://github.com/your-username/Laptop-Price-Predictor.git
 cd Laptop-Price-Predictor
 ```
 
-### 2️ Install dependencies
+###  Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### 3️ Run the application
+###  Run the application
 
 ```
 python app.py
 ```
 
-### 4️ Open in browser
 
-Go to: **http://127.0.0.1:5000/**
-
----
 
 ##  How It Works
 
